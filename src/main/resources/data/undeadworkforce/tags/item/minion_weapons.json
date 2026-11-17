@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:swords",
+    "#minecraft:axes",
+    "minecraft:bow",
+    "minecraft:crossbow",
+    { "id": "#c:tools/bow", "required": false },
+    { "id": "#c:tools/crossbow", "required": false }
+  ]
+}

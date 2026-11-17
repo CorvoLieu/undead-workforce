@@ -1,0 +1,33 @@
+{
+  "item.undeadworkforce.zombie_collar": "Zombie Collar",
+  "item.undeadworkforce.carried_zombie": "Carried Zombie",
+  "item.undeadworkforce.carried_zombie.of": "Carried %s",
+  "item.undeadworkforce.carried_zombie.tooltip": "Place on a block, or toss it, to set your minion down.",
+  "item.undeadworkforce.carried_zombie.weight": "Heavy! You can carry at most %s.",
+
+  "message.undeadworkforce.collared": "The zombie submits to your will.",
+  "message.undeadworkforce.already_collared": "This zombie already serves a master.",
+  "message.undeadworkforce.not_your_minion": "This minion serves someone else.",
+  "message.undeadworkforce.ordered": "Order given: %s",
+  "message.undeadworkforce.carry_limit": "You can't carry more than %s minions.",
+  "message.undeadworkforce.inventory_full": "No room in your inventory.",
+  "message.undeadworkforce.fighting_on": "Your minion is ready to fight.",
+  "message.undeadworkforce.fighting_off": "Your minion will stay out of fights.",
+
+  "minion_mode.undeadworkforce.follow": "Follow",
+  "minion_mode.undeadworkforce.stay": "Stay",
+  "minion_mode.undeadworkforce.wander": "Wander",
+
+  "screen.undeadworkforce.order.follow": "Follow",
+  "screen.undeadworkforce.order.stay": "Stay",
+  "screen.undeadworkforce.order.wander": "Wander",
+  "screen.undeadworkforce.order.pick_up": "Pick Up",
+  "screen.undeadworkforce.pack": "Pack",
+  "screen.undeadworkforce.fight.on": "Fight: On",
+  "screen.undeadworkforce.fight.off": "Fight: Off",
+  "screen.undeadworkforce.fight.tooltip": "When on, attacks nearby hostiles and defends you. Leaves creepers and neutral mobs alone unless you hit them first.",
+  "screen.undeadworkforce.slot.weapon": "Weapon",
+  "screen.undeadworkforce.slot.tool": "Tool",
+  "screen.undeadworkforce.slot.armor": "Armor",
+  "screen.undeadworkforce.slot.collar": "Collar"
+}

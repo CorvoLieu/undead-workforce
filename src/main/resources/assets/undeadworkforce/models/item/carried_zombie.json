@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "undeadworkforce:item/carried_zombie" }
+}
